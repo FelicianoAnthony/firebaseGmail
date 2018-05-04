@@ -24,3 +24,11 @@ What it does:
 ======
 
 1.  allows user to add items/remove items for a potluck -- database updates as well 
+
+
+
+### Main Window
+
+![alt text](screenshots/main.png)
+
+
